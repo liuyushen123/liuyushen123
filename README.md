@@ -45,3 +45,37 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
     <kbd>🔧 Tools & Data</kbd>
+    <br><br>
+    <img width="40px" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" title="Git"/>
+    <img width="40px" src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" title="GitHub"/>
+    <img width="40px" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" title="Linux"/>
+    <img width="40px" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" title="Pandas"/>
+  </kbd>
+</p>
+
+---
+
+## 📚 Current Focus
+
+- 🟨 **JavaScript:** DOM manipulation, async programming, and front-end architecture
+- 🐍 **Python:** Automation, RESTful APIs, and graphical interfaces
+- 📊 **Statistics:** Data analysis and algorithmic problem-solving
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liuyushen123&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyushen123&layout=compact&theme=transparent"/>
+</p>
+
+---
+
+## 📬 Contact
+
+- 📧 Email: yliu145@unl.edu
+
+---
+
+⭐️ Thanks for visiting my profile!
