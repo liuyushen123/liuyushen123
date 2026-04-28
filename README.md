@@ -21,25 +21,17 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🎓 Computer Science student at UNL</li>
-        <li>👨‍🏫 Learning Assistant (LA), helping students understand core CS concepts and problem-solving strategies</li>
-        <li>💻 Currently building projects with <b>JavaScript & Python</b></li>
-        <li>📊 Applying <b>statistics and data analysis</b> to real-world problems</li>
-        <li>⚡ Focused on writing clean, efficient, and scalable code</li>
-        <li>🚀 Actively developing portfolio projects and improving technical depth</li>
-        <li>🎯 Goal: Land a software engineering internship and grow into a full-stack developer</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <img width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-    </td>
-  </tr>
-</table>
+🎓 Computer Science student at UNL  
+👨‍🏫 Learning Assistant (LA), helping students master core CS concepts  
+💻 Building projects with **JavaScript & Python**  
+📊 Applying **statistics & data analysis** to real-world problems  
+⚡ Focused on writing clean, efficient, scalable code  
+🚀 Developing portfolio projects and improving technical depth  
+🎯 Goal: Land a software engineering internship  
 
+<p align="center">
+  <img width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+</p>
 ---
 
 ## 🛠️ Tech Stack
