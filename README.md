@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - 🎓 Computer Science student at UNL  
 - 👨‍🏫 Learning Assistant (LA), helping students master core CS concepts  
