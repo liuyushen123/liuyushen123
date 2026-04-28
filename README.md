@@ -21,18 +21,27 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student at UNL 
-- 👨‍🏫 Teaching Assistant & Learning Assistant—helping peers master core CS concepts
-- 💻 Currently deep-diving into **JavaScript & Python**
-- 📊 Interested in **Data Analysis, Full-Stack Architecture, & Statistics**
-- 🚀 Building hands-on projects & automated scripts 
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="25px">
-- 🎯 Goal: Secure a strong software engineering internship 
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="25px">
-
-<p align="center">
-  <img width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 Computer Science Student at UNL</li>
+        <li>👨‍🏫 Teaching Assistant & Learning Assistant—helping peers master core CS concepts</li>
+        <li>💻 Currently deep-diving into <b>JavaScript & Python</b></li>
+        <li>📊 Interested in <b>Data Analysis, Full-Stack Architecture, & Statistics</b></li>
+        <li>🚀 Building hands-on projects & automated scripts 
+          <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="25px">
+        </li>
+        <li>🎯 Goal: Secure a strong software engineering internship 
+          <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="25px">
+        </li>
+      </ul>
+    </td>
+    <td valign="top">
+      <img width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
