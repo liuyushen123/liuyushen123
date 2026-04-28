@@ -25,16 +25,13 @@
   <tr>
     <td>
       <ul>
-        <li>🎓 Computer Science Student at UNL</li>
-        <li>👨‍🏫 Teaching Assistant & Learning Assistant—helping peers master core CS concepts</li>
-        <li>💻 Currently deep-diving into <b>JavaScript & Python</b></li>
-        <li>📊 Interested in <b>Data Analysis, Full-Stack Architecture, & Statistics</b></li>
-        <li>🚀 Building hands-on projects & automated scripts 
-          <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="25px">
-        </li>
-        <li>🎯 Goal: Secure a strong software engineering internship 
-          <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="25px">
-        </li>
+        <li>🎓 Computer Science student at UNL</li>
+        <li>👨‍🏫 Learning Assistant (LA), helping students understand core CS concepts and problem-solving strategies</li>
+        <li>💻 Currently building projects with <b>JavaScript & Python</b></li>
+        <li>📊 Applying <b>statistics and data analysis</b> to real-world problems</li>
+        <li>⚡ Focused on writing clean, efficient, and scalable code</li>
+        <li>🚀 Actively developing portfolio projects and improving technical depth</li>
+        <li>🎯 Goal: Land a software engineering internship and grow into a full-stack developer</li>
       </ul>
     </td>
     <td valign="top">
