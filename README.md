@@ -40,7 +40,7 @@
 
 <div align="center">
 
-  <span style="margin: 0 30px;">
+  <span style="margin: 0 90px;">
     <kbd>
       <kbd>🌐 Frontend</kbd>
       <br><br>
@@ -51,7 +51,7 @@
     </kbd>
   </span>
 
-  <span style="margin: 0 30px;">
+  <span style="margin: 0 90px;">
     <kbd>
       <kbd>⚙️ Backend & Languages</kbd>
       <br><br>
@@ -62,7 +62,7 @@
     </kbd>
   </span>
 
-  <span style="margin: 0 30px;">
+  <span style="margin: 0 90px;">
     <kbd>
       <kbd>🔧 Tools & Data</kbd>
       <br><br>
