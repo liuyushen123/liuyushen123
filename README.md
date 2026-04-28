@@ -12,20 +12,22 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="180" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="180" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="180" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - 🎓 Computer Science student at UNL  
 - 👨‍🏫 Learning Assistant (LA), helping students master core CS concepts  
-- 💻 Building projects with **JavaScript & Python** - 📊 Applying **statistics & data analysis** - ⚡ Focused on clean, efficient, scalable code  
+- 💻 Building projects with **JavaScript & Python**  
+- 📊 Applying **statistics & data analysis**  
+- ⚡ Focused on clean, efficient, scalable code  
 - 🚀 Developing portfolio projects  
 - 🎯 Goal: Software engineering internship  
 
@@ -36,38 +38,42 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td align="center">
         <kbd>
           <kbd>🌐 Frontend</kbd>
           <br><br>
-          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" title="JavaScript"/>
-          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" title="React"/>
-          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" title="HTML5"/>
-          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" title="CSS3"/>
+          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
+          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"/>
+          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
+          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"/>
         </kbd>
       </td>
-      <td width="100px"></td>
+
+      <td width="80"></td>
+
       <td align="center">
         <kbd>
           <kbd>⚙️ Backend & Languages</kbd>
           <br><br>
-          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" title="Python"/>
-          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" title="C"/>
-          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" title="C++"/>
-          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" title="C#"/>
+          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif"/>
+          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"/>
+          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
+          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif"/>
         </kbd>
       </td>
-      <td width="100px"></td>
+
+      <td width="80"></td>
+
       <td align="center">
         <kbd>
           <kbd>🔧 Tools & Data</kbd>
           <br><br>
-          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" title="Git"/>
-          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" title="GitHub"/>
-          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" title="Linux"/>
-          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" title="Pandas"/>
+          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif"/>
+          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif"/>
+          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif"/>
+          <img width="40px" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"/>
         </kbd>
       </td>
     </tr>
@@ -78,9 +84,9 @@
 
 ## 📚 Current Focus
 
-- 🟨 **JavaScript:** DOM manipulation, async programming, and front-end architecture
-- 🐍 **Python:** Automation, RESTful APIs, and graphical interfaces
-- 📊 **Statistics:** Data analysis and algorithmic problem-solving
+- 🟨 **JavaScript:** DOM, async, front-end architecture  
+- 🐍 **Python:** Automation, APIs, scripting  
+- 📊 **Statistics:** Data analysis & problem solving  
 
 ---
 
@@ -95,7 +101,7 @@
 
 ## 📬 Contact
 
-- 📧 Email: yliu145@unl.edu
+- 📧 Email: yliu145@unl.edu  
 
 ---
 
