@@ -13,11 +13,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Student based in the United States  
-- 💻 Currently learning **JavaScript & Python**
-- 📊 Interested in **Data Analysis & Statistics**
-- 🚀 Building projects through structured courses  
-- 🎯 Goal: Become a strong full-stack developer  
+- 🎓 Computer Science Student at UNL 
+- 👨‍🏫 Teaching Assistant & Learning Assistant—helping peers master core CS concepts
+- 💻 Currently deep-diving into **JavaScript & Python**
+- 📊 Interested in **Data Analysis, Full-Stack Architecture, & Statistics**
+- 🚀 Building hands-on projects and automated scripts to solve real problems
+- 🎯 Goal: Secure a strong software engineering internship
 
 ---
 
@@ -25,32 +26,37 @@
 
 ### 💡 Languages
 <p>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/>
 </p>
 
 ### ⚙️ Tools & Technologies
 <p>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
 </p>
 
 ---
 
 ## 📚 Current Focus
 
-- 🟨 JavaScript (DOM, async, projects)
-- 🐍 Python (automation, data analysis)
-- 📊 Statistics & problem solving
+- 🟨 **JavaScript:** DOM manipulation, async programming, and front-end architecture
+- 🐍 **Python:** Automation, RESTful APIs, and graphical interfaces
+- 📊 **Statistics:** Data analysis and algorithmic problem-solving
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liuyushen123&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyushen123&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liuyushen123&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyushen123&layout=compact&theme=transparent"/>
 </p>
 
 ---
